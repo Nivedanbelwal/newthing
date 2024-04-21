@@ -1,5 +1,5 @@
 #newthing
 this is my first repo.
 <br>
-author - Nivedan belwal
+author - Nivedan belwal(student)
 
